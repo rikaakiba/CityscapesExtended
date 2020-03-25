@@ -23,5 +23,6 @@ ADE20Kのクラス色：
 https://github.com/CSAILVision/sceneparsing/tree/master/visualizationCode/color150
 
 追加分のアノテーションはlabelmeで作成し、pythonスクリプトで元のアノテーション画像と合成しました。
-使用したスクリプトとアノテーションデータ（jsonファイルで、元画像と同じフォルダに置けばlabelmeで編集できます）は後日こちらのrepoに上げます：
+アノテーションデータはjson形式で、元画像と同じフォルダに置けばlabelmeで編集できます。
+使用したスクリプトは後日こちらのrepoに上げます：
 https://github.com/rikaakiba/CityscapesExtended
